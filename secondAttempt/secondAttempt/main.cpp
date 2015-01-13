@@ -19,7 +19,7 @@ void dinosaur(int i)
 void main()
 {
 	std::cout << "Alwight Dawlin\n";
-<<<<<<< HEAD
+
 	std::cout << "Oh look at me changing a file and the committing it\n\n";
 	dinosaur(0);
 	dinosaur(1);
@@ -28,14 +28,13 @@ void main()
 	dinosaur(1);
 	dinosaur(3);
 	std::cout<<mne::dicks<<std::endl;
-	while(1);
-=======
+	
 	std::cout << "Oh look at me changing a file and then committing it\n\n";
-
 	// This outputs valuable info to the screen
 	for(int i = 0; i < 50; i++)
 	{
 		std::cout << "The only commiting you'll be doing is suicide!\n";
 	}
->>>>>>> origin/master
+
+	while(1);
 }
