@@ -79,6 +79,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\main.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

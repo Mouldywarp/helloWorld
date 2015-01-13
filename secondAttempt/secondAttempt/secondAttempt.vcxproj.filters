@@ -18,5 +18,13 @@
     <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
