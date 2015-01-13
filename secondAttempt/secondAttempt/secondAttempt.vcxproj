@@ -78,11 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\main.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.cpp" />
+    <ClInclude Include="ronWeasly.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Moley%27s Docs\Uni\HelloWorld\helloWorld\secondAttempt\secondAttempt\ronWeasly.h" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ronWeasly.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
