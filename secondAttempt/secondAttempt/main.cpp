@@ -27,5 +27,6 @@ void main()
 	dinosaur(1);
 	dinosaur(3);
 	std::cout<<mne::dicks<<std::endl;
-	while(1);
+	//while(1);
+	std::cout << "Why did you put while(1), I don't get it.\n";
 }
