@@ -27,6 +27,9 @@ void main()
 	dinosaur(1);
 	dinosaur(3);
 	std::cout<<mne::dicks<<std::endl;
-	//while(1);
+
 	std::cout << "Why did you put while(1), I don't get it.\n";
+	std::cout << "I put while(1) in becasue for me my program doesn't hold when it runs, it exits as soon as it finishes so I use it to hold the program. \n";
+	std::cout << "The linking thing worked, maybe its just solutions created on your system?.\n";
+	while(1);
 }
