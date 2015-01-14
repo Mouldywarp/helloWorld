@@ -8,5 +8,6 @@ void dionsaur()
 void main()
 {
 	std::cout << "Up your VIVA innit bruv\n";
+	std::cout << "Just a lil test";
 	while(1);
 }

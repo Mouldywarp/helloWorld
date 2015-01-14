@@ -17,4 +17,6 @@ void main()
 	// Ron weasly
 	RonWeasly theWeasle;
 	theWeasle.beAGreatBigGingerTosser();
+	theWeasle.joke();
+
 }

@@ -8,7 +8,7 @@ class RonWeasly
 {
 public:
 	void beAGreatBigGingerTosser();
-
+	void joke();
 
 };
 
